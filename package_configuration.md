@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://USERNAME.github.io/nera-community/",
+  "homepage": "https://saranpornhhh-cmyk.github.io/nera-community/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
